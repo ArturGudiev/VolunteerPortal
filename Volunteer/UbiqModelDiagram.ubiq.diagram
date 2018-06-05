@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ubiqDesignerDiagram dslVersion="1.0.0.0" Id="71a32dd9-bc61-40a4-9f32-3d014859d407" absoluteBounds="0, 0, 11, 8.5" name="UbiqDesigner">
+  <componentModelMoniker Id="334f421c-5f3f-42cb-a87f-56cd79e282c1" />
+  <nestedChildShapes>
+    <applicationShape Id="15a8d57e-d1fb-437b-a86b-0ebd9a295ee7" absoluteBounds="8.25, 2.5, 1.5, 1">
+      <applicationMoniker name="/334f421c-5f3f-42cb-a87f-56cd79e282c1/Application0" />
+    </applicationShape>
+  </nestedChildShapes>
+</ubiqDesignerDiagram>

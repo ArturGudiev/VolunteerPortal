@@ -1,0 +1,146 @@
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:04.06.2018 23:10:54
+Copy lib files
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Output\Library\
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Server\
+Begin running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:04.06.2018 23:10:55
+Copy lib files
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Output\Library\
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Server\
+Begin running RunCustomTool
+Source c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Architecture Dest c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Architecture
+Source c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Architecture Dest c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Architecture
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone Application0\Application0.csproj
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:05.06.2018 3:30:09
+Copy lib files
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Output\Library\
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:05.06.2018 3:30:11
+Copy lib files
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Output\Library\
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:05.06.2018 21:15:34
+Copy lib files
+C:\Programming\C#\Volunteer\Output\Library\
+C:\Programming\C#\Volunteer\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:05.06.2018 21:15:35
+Copy lib files
+C:\Programming\C#\Volunteer\Output\Library\
+C:\Programming\C#\Volunteer\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:05.06.2018 21:15:43
+Copy lib files
+C:\Programming\C#\Volunteer\Output\Library\
+C:\Programming\C#\Volunteer\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:05.06.2018 21:15:44
+Copy lib files
+C:\Programming\C#\Volunteer\Output\Library\
+C:\Programming\C#\Volunteer\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+Source C:\Programming\C#\Volunteer\Architecture Dest C:\Programming\C#\Volunteer\Architecture
+Source C:\Programming\C#\Volunteer\Architecture Dest C:\Programming\C#\Volunteer\Architecture
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>

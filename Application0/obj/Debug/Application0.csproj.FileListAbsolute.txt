@@ -1,0 +1,12 @@
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Temp\Application0.dll
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Temp\Application0.pdb
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Application0\obj\Debug\Application0.csprojResolveAssemblyReference.cache
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Application0\obj\Debug\Application0.dll
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Application0\obj\Debug\Application0.pdb
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Output\SandBox\App\Application0.dll
+c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Output\SandBox\App\Application0.pdb
+C:\Programming\C#\Volunteer\Output\SandBox\App\Application0.dll
+C:\Programming\C#\Volunteer\Output\SandBox\App\Application0.pdb
+C:\Programming\C#\Volunteer\Application0\obj\Debug\Application0.csprojResolveAssemblyReference.cache
+C:\Programming\C#\Volunteer\Application0\obj\Debug\Application0.dll
+C:\Programming\C#\Volunteer\Application0\obj\Debug\Application0.pdb
