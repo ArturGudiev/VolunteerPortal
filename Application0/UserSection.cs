@@ -41,7 +41,7 @@ namespace Application0
         Input volunteerIdInput;
         Input passwordInput;
         Button backButton;
-        
+        private Controller currentController;
 
         private AppState appState = AppState.State1;
         enum AppState
@@ -140,20 +140,23 @@ namespace Application0
         //Your code should be inserted here
         protected async Task UserSection()
         {
+            currentController = LoginController.getInstance(this);
+            
             for (; ; )
             {
-                switch (appState)
-                {
-                    case AppState.State1:
-                        showState1();
-                        break;
-                    case AppState.State2:
-                        showState2();
-                        break;
-                    case AppState.State3:
-                        showState3();
-                        break;
-                }
+                currentController.action();
+//                switch (appState)
+//                {
+//                    case AppState.State1:
+//                        showState1();
+//                        break;
+//                    case AppState.State2:
+//                        showState2();
+//                        break;
+//                    case AppState.State3:
+//                        showState3();
+//                        break;
+//                }
                 // Wait for user action or dispatcher event
                 await Wait();
             }

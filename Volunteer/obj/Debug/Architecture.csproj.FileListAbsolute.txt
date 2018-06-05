@@ -5,6 +5,5 @@ c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Volunteer\obj\De
 c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Volunteer\obj\Debug\Empty Project5.pdb
 C:\Programming\C#\Volunteer\Volunteer\bin\Debug\Empty Project5.dll
 C:\Programming\C#\Volunteer\Volunteer\bin\Debug\Empty Project5.pdb
-C:\Programming\C#\Volunteer\Volunteer\obj\Debug\Architecture.csprojResolveAssemblyReference.cache
 C:\Programming\C#\Volunteer\Volunteer\obj\Debug\Empty Project5.dll
 C:\Programming\C#\Volunteer\Volunteer\obj\Debug\Empty Project5.pdb

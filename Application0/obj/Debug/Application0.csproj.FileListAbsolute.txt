@@ -7,6 +7,5 @@ c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Output\SandBox\A
 c:\users\gudiea\documents\visual studio 2012\Projects\Volunteer\Output\SandBox\App\Application0.pdb
 C:\Programming\C#\Volunteer\Output\SandBox\App\Application0.dll
 C:\Programming\C#\Volunteer\Output\SandBox\App\Application0.pdb
-C:\Programming\C#\Volunteer\Application0\obj\Debug\Application0.csprojResolveAssemblyReference.cache
 C:\Programming\C#\Volunteer\Application0\obj\Debug\Application0.dll
 C:\Programming\C#\Volunteer\Application0\obj\Debug\Application0.pdb
