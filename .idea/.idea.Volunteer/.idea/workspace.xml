@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/Application0/Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application0/Controller.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Application0/UserSection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application0/UserSection.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Application0/obj/Debug/Application0.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Application0/obj/Debug/Application0.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application0/obj/Debug/Application0.csprojResolveAssemblyReference.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Application0/obj/Debug/Application0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Application0/obj/Debug/Application0.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Application0/obj/Debug/Application0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Application0/obj/Debug/Application0.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LogFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LogFile.txt" afterDir="false" />
@@ -16,7 +15,6 @@
       <change beforePath="$PROJECT_DIR$/Volunteer/bin/Debug/Empty Project5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Volunteer/bin/Debug/Empty Project5.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Volunteer/bin/Debug/Empty Project5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Volunteer/bin/Debug/Empty Project5.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Volunteer/obj/Debug/Architecture.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Volunteer/obj/Debug/Architecture.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Volunteer/obj/Debug/Architecture.csprojResolveAssemblyReference.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Volunteer/obj/Debug/Empty Project5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Volunteer/obj/Debug/Empty Project5.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Volunteer/obj/Debug/Empty Project5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Volunteer/obj/Debug/Empty Project5.pdb" afterDir="false" />
     </list>
@@ -27,72 +25,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="scratch.cs" pinned="false" current-in-tab="true">
+              <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cs">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-1845">
+                    <caret selection-end-line="247" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="UserSection.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application0/UserSection.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="157" column="28" selection-start-line="157" selection-start-column="28" selection-end-line="157" selection-end-column="28" />
+            <state relative-caret-position="270">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <marker date="1528225198804" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
-                <marker date="1528225198804" expanded="false" signature="578:689" ph="..." />
-                <marker date="1528225198804" expanded="true" signature="713:16881" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="746:16874" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="1468:1547" ph="{...}" />
-                <marker date="1528225198804" expanded="false" signature="1586:2655" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="1639:2644" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="2160:2275" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225198804" expanded="false" signature="2702:3797" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="2756:3786" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="2934:3187" ph="/* Horizontal alignment within the parent control ... */" />
-                <marker date="1528225198804" expanded="true" signature="3297:3412" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225198804" expanded="false" signature="3850:4165" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="4008:4076" ph="{...}" />
-                <marker date="1528225198804" expanded="false" signature="4241:4597" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="4307:4388" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="4493:4563" ph="{...}" />
-                <marker date="1528225198804" expanded="false" signature="4667:5415" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="4705:4784" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="4830:5404" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="5442:5519" ph="/* User section for bussines logic ... */" />
-                <marker date="1528225198804" expanded="true" signature="5562:6274" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="5675:6264" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="5734:6220" ph="/* switch (appState) ... */" />
-                <marker date="1528225198804" expanded="false" signature="6309:14205" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="6332:11450" ph="stat1" />
-                <marker date="1528225198804" expanded="true" signature="6395:7454" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="6909:7024" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225198804" expanded="true" signature="7504:8098" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="8148:8740" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="8790:10093" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="8984:9237" ph="/* Horizontal alignment within the parent control ... */" />
-                <marker date="1528225198804" expanded="true" signature="9309:9424" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225198804" expanded="true" signature="9878:10077" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="10143:11426" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="10337:10590" ph="/* Horizontal alignment within the parent control ... */" />
-                <marker date="1528225198804" expanded="true" signature="10662:10777" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225198804" expanded="true" signature="11211:11410" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="11788:12528" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="12302:12417" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225198804" expanded="true" signature="12588:13328" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="13102:13217" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225198804" expanded="true" signature="13444:14158" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="13491:14125" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="13521:13766" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="13546:13765" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="13579:13726" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="13816:14052" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="13841:14051" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="13874:14012" ph="{...}" />
-                <marker date="1528225198804" expanded="false" signature="14266:15959" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="14647:15354" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="15626:15912" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="15673:15829" ph="{...}" />
-                <marker date="1528225198804" expanded="false" signature="16003:16859" ph="{...}" />
-                <marker date="1528225198804" expanded="false" signature="16026:16072" ph="stat1" />
-                <marker date="1528225198804" expanded="true" signature="16561:16812" ph="{...}" />
-                <marker date="1528225198804" expanded="true" signature="16608:16779" ph="{...}" />
+                <marker date="1528266656000" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
+                <marker date="1528266656000" expanded="false" signature="578:689" ph="..." />
+                <marker date="1528266656000" expanded="true" signature="713:1095" ph="{...}" />
+                <marker date="1528266656000" expanded="true" signature="746:1088" ph="{...}" />
+                <marker date="1528266656000" expanded="true" signature="848:1073" ph="{...}" />
+                <marker date="1528266656000" expanded="true" signature="961:1063" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -101,60 +66,66 @@
       <file leaf-file-name="Controller.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application0/Controller.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="89" column="50" selection-start-line="89" selection-start-column="50" selection-end-line="89" selection-end-column="50" />
+            <state relative-caret-position="-2691">
+              <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
               <folding>
-                <marker date="1528225226679" expanded="true" signature="44:9931" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="88:339" ph="{...}" />
-                <marker date="1528225226679" expanded="false" signature="207:293" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="394:9929" ph="{...}" />
-                <marker date="1528225226679" expanded="false" signature="518:654" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="862:902" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="963:1653" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="1032:1642" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="1867:2067" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="1914:2053" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="2112:6014" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="2135:3293" ph="stat1" />
-                <marker date="1528225226679" expanded="true" signature="2198:3257" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="2712:2827" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225226679" expanded="true" signature="3604:4344" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="4118:4233" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225226679" expanded="true" signature="4397:5137" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="4911:5026" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225226679" expanded="true" signature="5253:5967" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="5300:5934" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="5330:5575" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="5355:5574" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="5388:5535" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="5625:5861" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="5650:5860" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="5683:5821" ph="{...}" />
-                <marker date="1528225226679" expanded="false" signature="6058:9914" ph="{...}" />
-                <marker date="1528225226679" expanded="false" signature="6132:7191" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="6646:6761" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225226679" expanded="true" signature="7205:7307" ph="/* todo Change controller ... */" />
-                <marker date="1528225226679" expanded="false" signature="7568:8308" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="8082:8197" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225226679" expanded="false" signature="8360:9100" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="8874:8989" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-                <marker date="1528225226679" expanded="true" signature="9153:9867" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="9200:9834" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="9230:9475" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="9255:9474" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="9288:9435" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="9525:9761" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="9550:9760" ph="{...}" />
-                <marker date="1528225226679" expanded="true" signature="9583:9721" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="6:34" ph="..." />
+                <marker date="1528292328321" expanded="true" signature="58:10632" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="97:2302" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="217:303" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="391:1460" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="444:1449" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="965:1080" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528292328321" expanded="true" signature="1532:2296" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="1588:2285" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="2349:7778" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="2621:2757" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="2802:2842" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="2905:2925" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="3050:3246" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="3097:3236" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="3281:7772" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="3304:4411" ph="stat1" />
+                <marker date="1528292328321" expanded="true" signature="3368:4386" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="3889:4004" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528292328321" expanded="true" signature="4744:5548" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="5266:5381" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528292328321" expanded="true" signature="5600:6468" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="6122:6237" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528292328321" expanded="true" signature="6575:7725" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="6620:7642" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="6671:7097" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="6746:7075" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="6815:6983" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="7149:7569" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="7224:7547" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="7293:7455" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="7824:10630" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="7946:8081" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="8143:8163" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="8339:8399" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="8523:8828" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="8570:8818" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="8863:9768" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="9408:9721" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="9453:9638" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="9803:10624" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="10247:10577" ph="{...}" />
+                <marker date="1528292328321" expanded="true" signature="10292:10494" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="UbiqDesign.ubiqml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application0/UbiqDesign.ubiqml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="Screen.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECCE6C50-D195-498A-9764-BEC12FDD8136/78/3b794cd1/Screen.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
+            <state relative-caret-position="4875">
               <caret line="325" column="5" selection-start-line="325" selection-start-column="5" selection-end-line="325" selection-end-column="5" />
             </state>
           </provider>
@@ -186,6 +157,14 @@
       <find>showState1</find>
       <find>showState3</find>
       <find>extra</find>
+      <find>getButton</find>
+      <find>loginButton</find>
+      <find>todo</find>
+      <find>backButton</find>
+      <find>logout</find>
+      <find>Padding</find>
+      <find>Input</find>
+      <find>input</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -195,12 +174,14 @@
     <setting file="file://$PROJECT_DIR$/Application0/UserSection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Application0/Application0.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECCE6C50-D195-498A-9764-BEC12FDD8136/78/3b794cd1/Screen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Application0/Controller.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Application0/UserSection.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" />
         <option value="$PROJECT_DIR$/Application0/Controller.cs" />
       </list>
     </option>
@@ -215,10 +196,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="258" />
-    <option name="y" value="18" />
-    <option name="width" value="1401" />
-    <option name="height" value="1002" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -226,7 +206,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -239,23 +218,20 @@
               <item name="Volunteer (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Application0" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Volunteer (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Application0" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="GeneratedCode" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="C#" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -281,12 +257,14 @@
       <updated>1528143318846</updated>
       <workItem from="1528143321292" duration="341000" />
       <workItem from="1528143711491" duration="4486000" />
-      <workItem from="1528222569858" duration="2903000" />
+      <workItem from="1528222569858" duration="8097000" />
+      <workItem from="1528257349506" duration="2888000" />
+      <workItem from="1528263934410" duration="8480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7730000" />
+    <option name="totallyTimeSpent" value="24292000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -306,16 +284,16 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1641791" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.34354487" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -340,67 +318,199 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Application0/UserSection.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1528266656000" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
+            <marker date="1528266656000" expanded="false" signature="578:689" ph="..." />
+            <marker date="1528266656000" expanded="true" signature="713:1095" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="746:1088" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="848:1073" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="961:1063" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/UbiqDesign.ubiqml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECCE6C50-D195-498A-9764-BEC12FDD8136/78/3b794cd1/Screen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4875">
+          <caret line="325" column="5" selection-start-line="325" selection-start-column="5" selection-end-line="325" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/Application0.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <marker date="1528143094757" expanded="true" signature="0:533" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1528143094757" expanded="false" signature="543:697" ph="..." />
+            <marker date="1528143094757" expanded="true" signature="783:1298" ph="{...}" />
+            <marker date="1528143094757" expanded="true" signature="880:1296" ph="{...}" />
+            <marker date="1528143094757" expanded="true" signature="989:1063" ph="{...}" />
+            <marker date="1528143094757" expanded="true" signature="1153:1290" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+          <folding>
+            <marker date="1528292328321" expanded="true" signature="6:34" ph="..." />
+            <marker date="1528292328321" expanded="true" signature="58:10632" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="97:2302" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="217:303" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="391:1460" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="444:1449" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="965:1080" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="1532:2296" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="1588:2285" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2349:7778" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2621:2757" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2802:2842" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2905:2925" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3050:3246" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3097:3236" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3281:7772" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3304:4411" ph="stat1" />
+            <marker date="1528292328321" expanded="true" signature="3368:4386" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3889:4004" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="4744:5548" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="5266:5381" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="5600:6468" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6122:6237" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="6575:7725" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6620:7642" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6671:7097" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6746:7075" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6815:6983" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7149:7569" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7224:7547" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7293:7455" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7824:10630" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7946:8081" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8143:8163" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8339:8399" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8523:8828" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8570:8818" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8863:9768" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="9408:9721" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="9453:9638" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="9803:10624" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="10247:10577" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="10292:10494" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/UserSection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1528266656000" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
+            <marker date="1528266656000" expanded="false" signature="578:689" ph="..." />
+            <marker date="1528266656000" expanded="true" signature="713:1095" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="746:1088" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="848:1073" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="961:1063" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/UbiqDesign.ubiqml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECCE6C50-D195-498A-9764-BEC12FDD8136/78/3b794cd1/Screen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4875">
+          <caret line="325" column="5" selection-start-line="325" selection-start-column="5" selection-end-line="325" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/Application0.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <marker date="1528143094757" expanded="true" signature="0:533" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1528143094757" expanded="false" signature="543:697" ph="..." />
+            <marker date="1528143094757" expanded="true" signature="783:1298" ph="{...}" />
+            <marker date="1528143094757" expanded="true" signature="880:1296" ph="{...}" />
+            <marker date="1528143094757" expanded="true" signature="989:1063" ph="{...}" />
+            <marker date="1528143094757" expanded="true" signature="1153:1290" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="149" column="26" selection-start-line="149" selection-start-column="26" selection-end-line="149" selection-end-column="26" />
+          <folding>
+            <marker date="1528292328321" expanded="true" signature="6:34" ph="..." />
+            <marker date="1528292328321" expanded="true" signature="58:10632" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="97:2302" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="217:303" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="391:1460" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="444:1449" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="965:1080" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="1532:2296" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="1588:2285" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2349:7778" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2621:2757" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2802:2842" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2905:2925" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3050:3246" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3097:3236" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3281:7772" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3304:4411" ph="stat1" />
+            <marker date="1528292328321" expanded="true" signature="3368:4386" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3889:4004" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="4744:5548" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="5266:5381" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="5600:6468" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6122:6237" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="6575:7725" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6620:7642" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6671:7097" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6746:7075" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6815:6983" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7149:7569" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7224:7547" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7293:7455" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7824:10630" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7946:8081" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8143:8163" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8339:8399" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8523:8828" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8570:8818" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8863:9768" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="9408:9721" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="9453:9638" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="9803:10624" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="10247:10577" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="10292:10494" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/UserSection.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2730">
           <caret line="326" column="63" selection-start-line="326" selection-start-column="63" selection-end-line="326" selection-end-column="63" />
           <folding>
-            <marker date="1528225198804" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
-            <marker date="1528225198804" expanded="false" signature="578:689" ph="..." />
-            <marker date="1528225198804" expanded="true" signature="713:16881" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="746:16874" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="1468:1547" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="1586:2655" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="1639:2644" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="2160:2275" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="false" signature="2702:3797" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="2756:3786" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="2934:3187" ph="/* Horizontal alignment within the parent control ... */" />
-            <marker date="1528225198804" expanded="true" signature="3297:3412" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="false" signature="3850:4165" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4008:4076" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="4241:4597" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4307:4388" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4493:4563" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="4667:5415" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4705:4784" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4830:5404" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="5442:5519" ph="/* User section for bussines logic ... */" />
-            <marker date="1528225198804" expanded="true" signature="5562:6274" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="5675:6264" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="5734:6220" ph="/* switch (appState) ... */" />
-            <marker date="1528225198804" expanded="false" signature="6309:14205" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="6332:11450" ph="stat1" />
-            <marker date="1528225198804" expanded="true" signature="6395:7454" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="6909:7024" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="7504:8098" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="8148:8740" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="8790:10093" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="8984:9237" ph="/* Horizontal alignment within the parent control ... */" />
-            <marker date="1528225198804" expanded="true" signature="9309:9424" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="9878:10077" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="10143:11426" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="10337:10590" ph="/* Horizontal alignment within the parent control ... */" />
-            <marker date="1528225198804" expanded="true" signature="10662:10777" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="11211:11410" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="11788:12528" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="12302:12417" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="12588:13328" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13102:13217" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="13444:14158" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13491:14125" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13521:13766" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13546:13765" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13579:13726" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13816:14052" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13841:14051" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13874:14012" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="14266:15959" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="14647:15354" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="15626:15912" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="15673:15829" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="16003:16859" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="16026:16072" ph="stat1" />
-            <marker date="1528225198804" expanded="true" signature="16561:16812" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="16608:16779" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
+            <marker date="1528266656000" expanded="false" signature="578:689" ph="..." />
+            <marker date="1528266656000" expanded="true" signature="713:1095" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="746:1088" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="848:1073" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="961:1063" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -424,64 +534,12 @@
         <state relative-caret-position="300">
           <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
-            <marker date="1528225198804" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
-            <marker date="1528225198804" expanded="false" signature="578:689" ph="..." />
-            <marker date="1528225198804" expanded="true" signature="713:16881" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="746:16874" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="1468:1547" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="1586:2655" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="1639:2644" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="2160:2275" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="false" signature="2702:3797" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="2756:3786" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="2934:3187" ph="/* Horizontal alignment within the parent control ... */" />
-            <marker date="1528225198804" expanded="true" signature="3297:3412" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="false" signature="3850:4165" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4008:4076" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="4241:4597" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4307:4388" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4493:4563" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="4667:5415" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4705:4784" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4830:5404" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="5442:5519" ph="/* User section for bussines logic ... */" />
-            <marker date="1528225198804" expanded="true" signature="5562:6274" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="5675:6264" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="5734:6220" ph="/* switch (appState) ... */" />
-            <marker date="1528225198804" expanded="false" signature="6309:14205" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="6332:11450" ph="stat1" />
-            <marker date="1528225198804" expanded="true" signature="6395:7454" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="6909:7024" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="7504:8098" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="8148:8740" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="8790:10093" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="8984:9237" ph="/* Horizontal alignment within the parent control ... */" />
-            <marker date="1528225198804" expanded="true" signature="9309:9424" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="9878:10077" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="10143:11426" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="10337:10590" ph="/* Horizontal alignment within the parent control ... */" />
-            <marker date="1528225198804" expanded="true" signature="10662:10777" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="11211:11410" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="11788:12528" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="12302:12417" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="12588:13328" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13102:13217" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="13444:14158" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13491:14125" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13521:13766" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13546:13765" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13579:13726" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13816:14052" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13841:14051" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13874:14012" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="14266:15959" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="14647:15354" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="15626:15912" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="15673:15829" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="16003:16859" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="16026:16072" ph="stat1" />
-            <marker date="1528225198804" expanded="true" signature="16561:16812" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="16608:16779" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
+            <marker date="1528266656000" expanded="false" signature="578:689" ph="..." />
+            <marker date="1528266656000" expanded="true" signature="713:1095" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="746:1088" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="848:1073" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="961:1063" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -502,7 +560,7 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECCE6C50-D195-498A-9764-BEC12FDD8136/78/3b794cd1/Screen.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="4875">
           <caret line="325" column="5" selection-start-line="325" selection-start-column="5" selection-end-line="325" selection-end-column="5" />
         </state>
       </provider>
@@ -522,120 +580,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/UbiqDesign.ubiqml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Application0/UserSection.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="157" column="28" selection-start-line="157" selection-start-column="28" selection-end-line="157" selection-end-column="28" />
+        <state relative-caret-position="270">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <marker date="1528225198804" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
-            <marker date="1528225198804" expanded="false" signature="578:689" ph="..." />
-            <marker date="1528225198804" expanded="true" signature="713:16881" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="746:16874" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="1468:1547" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="1586:2655" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="1639:2644" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="2160:2275" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="false" signature="2702:3797" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="2756:3786" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="2934:3187" ph="/* Horizontal alignment within the parent control ... */" />
-            <marker date="1528225198804" expanded="true" signature="3297:3412" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="false" signature="3850:4165" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4008:4076" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="4241:4597" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4307:4388" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4493:4563" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="4667:5415" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4705:4784" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="4830:5404" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="5442:5519" ph="/* User section for bussines logic ... */" />
-            <marker date="1528225198804" expanded="true" signature="5562:6274" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="5675:6264" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="5734:6220" ph="/* switch (appState) ... */" />
-            <marker date="1528225198804" expanded="false" signature="6309:14205" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="6332:11450" ph="stat1" />
-            <marker date="1528225198804" expanded="true" signature="6395:7454" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="6909:7024" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="7504:8098" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="8148:8740" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="8790:10093" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="8984:9237" ph="/* Horizontal alignment within the parent control ... */" />
-            <marker date="1528225198804" expanded="true" signature="9309:9424" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="9878:10077" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="10143:11426" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="10337:10590" ph="/* Horizontal alignment within the parent control ... */" />
-            <marker date="1528225198804" expanded="true" signature="10662:10777" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="11211:11410" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="11788:12528" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="12302:12417" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="12588:13328" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13102:13217" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225198804" expanded="true" signature="13444:14158" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13491:14125" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13521:13766" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13546:13765" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13579:13726" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13816:14052" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13841:14051" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="13874:14012" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="14266:15959" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="14647:15354" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="15626:15912" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="15673:15829" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="16003:16859" ph="{...}" />
-            <marker date="1528225198804" expanded="false" signature="16026:16072" ph="stat1" />
-            <marker date="1528225198804" expanded="true" signature="16561:16812" ph="{...}" />
-            <marker date="1528225198804" expanded="true" signature="16608:16779" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
+            <marker date="1528266656000" expanded="false" signature="578:689" ph="..." />
+            <marker date="1528266656000" expanded="true" signature="713:1095" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="746:1088" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="848:1073" ph="{...}" />
+            <marker date="1528266656000" expanded="true" signature="961:1063" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1845">
+          <caret selection-end-line="247" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application0/Controller.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="89" column="50" selection-start-line="89" selection-start-column="50" selection-end-line="89" selection-end-column="50" />
+        <state relative-caret-position="-2691">
+          <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
           <folding>
-            <marker date="1528225226679" expanded="true" signature="44:9931" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="88:339" ph="{...}" />
-            <marker date="1528225226679" expanded="false" signature="207:293" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="394:9929" ph="{...}" />
-            <marker date="1528225226679" expanded="false" signature="518:654" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="862:902" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="963:1653" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="1032:1642" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="1867:2067" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="1914:2053" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="2112:6014" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="2135:3293" ph="stat1" />
-            <marker date="1528225226679" expanded="true" signature="2198:3257" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="2712:2827" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225226679" expanded="true" signature="3604:4344" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="4118:4233" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225226679" expanded="true" signature="4397:5137" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="4911:5026" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225226679" expanded="true" signature="5253:5967" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="5300:5934" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="5330:5575" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="5355:5574" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="5388:5535" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="5625:5861" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="5650:5860" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="5683:5821" ph="{...}" />
-            <marker date="1528225226679" expanded="false" signature="6058:9914" ph="{...}" />
-            <marker date="1528225226679" expanded="false" signature="6132:7191" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="6646:6761" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225226679" expanded="true" signature="7205:7307" ph="/* todo Change controller ... */" />
-            <marker date="1528225226679" expanded="false" signature="7568:8308" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="8082:8197" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225226679" expanded="false" signature="8360:9100" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="8874:8989" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
-            <marker date="1528225226679" expanded="true" signature="9153:9867" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="9200:9834" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="9230:9475" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="9255:9474" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="9288:9435" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="9525:9761" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="9550:9760" ph="{...}" />
-            <marker date="1528225226679" expanded="true" signature="9583:9721" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6:34" ph="..." />
+            <marker date="1528292328321" expanded="true" signature="58:10632" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="97:2302" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="217:303" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="391:1460" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="444:1449" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="965:1080" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="1532:2296" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="1588:2285" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2349:7778" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2621:2757" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2802:2842" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="2905:2925" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3050:3246" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3097:3236" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3281:7772" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3304:4411" ph="stat1" />
+            <marker date="1528292328321" expanded="true" signature="3368:4386" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="3889:4004" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="4744:5548" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="5266:5381" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="5600:6468" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6122:6237" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528292328321" expanded="true" signature="6575:7725" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6620:7642" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6671:7097" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6746:7075" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="6815:6983" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7149:7569" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7224:7547" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7293:7455" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7824:10630" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="7946:8081" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8143:8163" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8339:8399" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8523:8828" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8570:8818" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="8863:9768" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="9408:9721" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="9453:9638" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="9803:10624" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="10247:10577" ph="{...}" />
+            <marker date="1528292328321" expanded="true" signature="10292:10494" ph="{...}" />
           </folding>
         </state>
       </provider>
