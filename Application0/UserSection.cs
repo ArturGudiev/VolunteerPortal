@@ -20,7 +20,7 @@ namespace Application0
     partial class Application0
     {
         public Controller currentController;
-       
+        public bool changed = false;
         protected async Task UserSection()
         {
             currentController = LoginController.getInstance(this);
@@ -28,6 +28,11 @@ namespace Application0
             for (; ; )
             {
                 currentController.action();
+                while (changed)
+                {
+                    changed = false;
+                    currentController.action();
+                }
                 await Wait();
             }
         }

@@ -580,3 +580,209 @@ _buildEvents_OnBuildDone Application0\Application0.csproj
 _buildEvents_OnBuildDone <MiscFiles>
 _buildEvents_OnBuildDone Application0\Application0.csproj
 _buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:02:55
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:02:55
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:02:55
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:02:55
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:03:03
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:03:03
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:03:03
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:03:04
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:03:17
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:03:17
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:03:17
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:03:17
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:04:59
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:04:59
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:04:59
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:04:59
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:05:03
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:05:03
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:05:03
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:05:03
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:05:11
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:05:11
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:05:11
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:05:11
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:31:56
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:31:56
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:31:57
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:31:57
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:32:03
+DebuggerEvents_OnContextChanged, time:06.06.2018 20:32:03
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:32:03
+DebuggerEvents_OnEnterBreakMode, time:06.06.2018 20:32:03
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 10:35:30
+Copy lib files
+C:\Programming\C#\Volunteer\Output\Library\
+C:\Programming\C#\Volunteer\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 10:35:31
+Copy lib files
+C:\Programming\C#\Volunteer\Output\Library\
+C:\Programming\C#\Volunteer\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+OnExceptionNotHandled time:07.06.2018 10:37:01
+OnExceptionNotHandled time:07.06.2018 10:37:01
+DebuggerEvents_OnContextChanged, time:07.06.2018 10:37:01
+DebuggerEvents_OnContextChanged, time:07.06.2018 10:37:01
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 10:37:04
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 10:37:04
+DebuggerEvents_OnContextChanged, time:07.06.2018 10:37:25
+DebuggerEvents_OnContextChanged, time:07.06.2018 10:37:25
+DebuggerEvents_OnContextChanged, time:07.06.2018 10:37:25
+DebuggerEvents_OnContextChanged, time:07.06.2018 10:37:25
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 12:07:05
+Copy lib files
+C:\Programming\C#\Volunteer\Output\Library\
+C:\Programming\C#\Volunteer\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 12:07:05
+Copy lib files
+C:\Programming\C#\Volunteer\Output\Library\
+C:\Programming\C#\Volunteer\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>

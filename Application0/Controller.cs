@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Generated material. Generating code in C#.
+
+using System;
 using Ubiq.Graphics;
 
 namespace Application0
@@ -15,53 +17,20 @@ namespace Application0
         }
 
         public abstract void action();
-
-        protected Button getButton(string str)
-        {
-            return new Button
-            {
-                VerticalAlignment = VerticalAlignment.Center, // Vertical alignment within the parent control
-                HorizontalAlignment = HorizontalAlignment.Center, // Horizontal alignment within the parent control
-                Background = new SolidColorBrush(Colors.Gray), // Color of button
-                Foreground = new SolidColorBrush(Colors.Black), // Color of text written on button   
-                Padding =
-                    new Thickness(Screen
-                        .NormalFontSize), // Padding is using predefined constant NormalFontSize that depends
-                // on client device screen size
-                WrapContent = true, // The button "wraps" its text with given padding
-                Font = new Font(new FontFamily("Arial"), // Font for drawing text
-                    0.5 * Screen
-                        .LargeFontSize), // LargeFontSize is a predefined constant that depends on client device screen size  
-                Text = str
-            };
-        }
-
-        protected TextBlock getTextBlock(string str, double fsize = 0)
-        {
-            return new TextBlock
-            {
-                VerticalAlignment = VerticalAlignment.Center, // Vertical alignment within the parent control
-                HorizontalAlignment = HorizontalAlignment.Center, // Horizontal alignment within the parent control
-                WrapContent = true, // If we don't set WrapContent attribute, the text block will 
-                Font =
-                    new Font(new FontFamily("Arial"),
-                        fsize == 0
-                            ? Screen.LargeFontSize
-                            : fsize), // Font for drawing text. LargeFontSize is a predefined constant
-                Foreground = new SolidColorBrush(Colors.Black),
-                Text = str
-            };
-        }
     }
+
 
     public class LoginController : Controller
     {
+        StackPanel volunteerIdInput;
+        StackPanel passwordInput;
         Button loginButton;
-        TextBlock volunteerId;
-        TextBlock password;
-        Input volunteerIdInput;
-        Input passwordInput;
+        private bool sw1;
         private static LoginController instance;
+
+        private LoginController(Application0 app) : base(app)
+        {
+        }
 
         public static LoginController getInstance(Application0 app)
         {
@@ -70,120 +39,108 @@ namespace Application0
             return instance;
         }
 
-        
-
         enum LoginControllerState
         {
-            State1,
+            LoginState,
         }
 
-        private LoginController(Application0 app) : base(app)
-        {
-        }
-
-        private LoginControllerState controllerState = LoginControllerState.State1;
-
+        private LoginControllerState controllerState = LoginControllerState.LoginState;
 
         public override void action()
         {
             switch (controllerState)
             {
-                case LoginControllerState.State1:
-                    showState1();
+                case LoginControllerState.LoginState:
+                    showLoginState();
+
+                    if (sw1)
+                    {
+                        this.app.currentController = MainController.getInstance(this.app);
+                        this.app.changed = true;
+                        sw1 = false;
+                    }
+
+
                     break;
             }
         }
 
-        private void showState1()
+        private void showLoginState()
         {
-            #region stat1
-
-            loginButton = new Button
+            var volunteerIdInputLeft = new TextBlock
             {
-                VerticalAlignment = VerticalAlignment.Center, // Vertical alignment within the parent control
-                HorizontalAlignment = HorizontalAlignment.Center, // Horizontal alignment within the parent control
-                Background = new SolidColorBrush(Colors.Gray), // Color of button
-                Foreground = new SolidColorBrush(Colors.Black), // Color of text written on button   
-                Padding =
-                    new Thickness(Screen
-                        .NormalFontSize), // Padding is using predefined constant NormalFontSize that depends
-                // on client device screen size
-                WrapContent = true, // The button "wraps" its text with given padding
-                Font = new Font(new FontFamily("Arial"), // Font for drawing text
-                    0.5 * Screen
-                        .LargeFontSize), // LargeFontSize is a predefined constant that depends on client device screen size         
-                Text = "Log in",
+                VerticalAlignment = VerticalAlignment.Center,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                WrapContent = true,
+                Font = new Font(new FontFamily("Arial"), 16),
+                Foreground = new SolidColorBrush(Colors.Black),
+                Text = "Volunteer Id"
             };
-
-            #endregion
-
-            loginButton.Pressed += (s, e) => { this.app.currentController = MainController.getInstance(this.app); };
-            DropBox dropBox = new DropBox { };
-
-            volunteerId = getTextBlock("Volunteer ID", 16);
-            password = getTextBlock("Password", 16);
-            volunteerIdInput = new Input
+            var volunteerIdInputRight = new Input
             {
-                VerticalAlignment = VerticalAlignment.Center, // Vertical alignment within the parent control
-                HorizontalAlignment = HorizontalAlignment.Center, // Horizontal alignment within the parent control
-                Background = new SolidColorBrush(Colors.White), // Color of button
-                Foreground = new SolidColorBrush(Colors.Black), // Color of text written on button   
-                Padding =
-                    new Thickness(Screen
-                        .NormalFontSize), // Padding is using predefined constant NormalFontSize that depends
-                // on client device screen size
+                VerticalAlignment = VerticalAlignment.Center,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                Background = new SolidColorBrush(Colors.White),
+                Foreground = new SolidColorBrush(Colors.Black),
+                Padding = new Thickness(Screen.NormalFontSize),
                 WrapContent = true,
                 Width = 150,
                 Font = new Font(new FontFamily("Arial"), 12),
+                InputMode = Ubiq.Graphics.InputMode.Text,
                 Text = ""
             };
-            passwordInput = new Input
+            volunteerIdInput = new StackPanel
             {
-                VerticalAlignment = VerticalAlignment.Center, // Vertical alignment within the parent control
-                HorizontalAlignment = HorizontalAlignment.Center, // Horizontal alignment within the parent control
-                Background = new SolidColorBrush(Colors.White), // Color of button
-                Foreground = new SolidColorBrush(Colors.Black), // Color of text written on button   
-                Padding =
-                    new Thickness(Screen
-                        .NormalFontSize), // Padding is using predefined constant NormalFontSize that depends
-                // on client device screen size
+                Children = {new Cell {Content = volunteerIdInputLeft}, new Cell {Content = volunteerIdInputRight},},
+                Orientation = Orientation.Horizontal
+            };
+
+            var passwordInputLeft = new TextBlock
+            {
+                VerticalAlignment = VerticalAlignment.Center,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                WrapContent = true,
+                Font = new Font(new FontFamily("Arial"), 16),
+                Foreground = new SolidColorBrush(Colors.Black),
+                Text = "Password"
+            };
+            var passwordInputRight = new Input
+            {
+                VerticalAlignment = VerticalAlignment.Center,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                Background = new SolidColorBrush(Colors.White),
+                Foreground = new SolidColorBrush(Colors.Black),
+                Padding = new Thickness(Screen.NormalFontSize),
                 WrapContent = true,
                 Width = 150,
                 Font = new Font(new FontFamily("Arial"), 12),
                 InputMode = Ubiq.Graphics.InputMode.SecureText,
                 Text = ""
             };
+            passwordInput = new StackPanel
+            {
+                Children = {new Cell {Content = passwordInputLeft}, new Cell {Content = passwordInputRight},},
+                Orientation = Orientation.Horizontal
+            };
 
-            var textState1 = getTextBlock("State1");
+            loginButton = new Button
+            {
+                VerticalAlignment = VerticalAlignment.Center,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                Background = new SolidColorBrush(Colors.Gray),
+                Foreground = new SolidColorBrush(Colors.Black),
+                Padding = new Thickness(Screen.NormalFontSize),
+                WrapContent = true,
+                Font = new Font(new FontFamily("Arial"), 0.5 * Screen.LargeFontSize),
+                Text = "Log in"
+            };
+            loginButton.Pressed += (x, y) => { sw1 = true;};
             var panel = new StackPanel
             {
                 Children =
                 {
-                    new Cell
-                    {
-                        Content = new StackPanel
-                        {
-                            Children =
-                            {
-                                new Cell {Content = volunteerId},
-                                new Cell {Content = volunteerIdInput},
-                            },
-                            Orientation = Orientation.Horizontal
-                        }
-                    },
-
-                    new Cell
-                    {
-                        Content = new StackPanel
-                        {
-                            Children =
-                            {
-                                new Cell {Content = password},
-                                new Cell {Content = passwordInput},
-                            },
-                            Orientation = Orientation.Horizontal
-                        }
-                    },
+                    new Cell {Content = volunteerIdInput},
+                    new Cell {Content = passwordInput},
                     new Cell {Content = loginButton},
                 },
                 Background = new SolidColorBrush(Colors.LightBlue),
@@ -194,7 +151,19 @@ namespace Application0
 
     public class MainController : Controller
     {
+        Button checkinButton;
+        Button LogoutButton;
+        TextBlock generatedKeyLabel;
+        TextBlock KeyLabel;
+        Button BackButton;
+        private bool sw1;
+        private bool sw2;
+        private bool sw3;
         private static MainController instance;
+
+        private MainController(Application0 app) : base(app)
+        {
+        }
 
         public static MainController getInstance(Application0 app)
         {
@@ -203,79 +172,130 @@ namespace Application0
             return instance;
         }
 
-        private MainController(Application0 app) : base(app)
-        {
-        }
-
-        Button checkinButton;
-        Button logoutButton;
-        Button backButton;
-        TextBlock generatedKey;
-        TextBlock key;
-
         enum MainControllerState
         {
-            State1,
-            State2,
+            StartState,
+            CheckinState,
         }
 
-
-        private MainControllerState controllerState = MainControllerState.State1;
-
+        private MainControllerState controllerState = MainControllerState.StartState;
 
         public override void action()
         {
             switch (controllerState)
             {
-                case MainControllerState.State1:
-                    showState1();
+                case MainControllerState.StartState:
+                    showStartState();
+
+                    if (sw2)
+                    {
+                        this.app.currentController = LoginController.getInstance(this.app);
+                        this.app.changed = true;
+                        sw2 = false;
+                    }
+
+
+                    if (sw1)
+                    {
+                        controllerState = MainControllerState.CheckinState;
+                        this.app.changed = true;
+                        sw1 = false;
+                    }
+
                     break;
-                case MainControllerState.State2:
-                    showState2();
+
+                case MainControllerState.CheckinState:
+                    showCheckinState();
+
+
+                    if (sw3)
+                    {
+                        controllerState = MainControllerState.StartState;
+                        this.app.changed = true;
+                        sw3 = false;
+                    }
+
                     break;
             }
         }
 
-        private void showState1()
+        private void showStartState()
         {
-            checkinButton = getButton("Check in");
-//            checkinButton.Padding = new Thickness(120);
-            logoutButton = getButton("Log out");
-//            logoutButton.Padding = new Thickness(60);
-            checkinButton.Pressed += (s, e) => { controllerState = MainControllerState.State2; };
-            logoutButton.Pressed += (s, e) => { this.app.currentController = LoginController.getInstance(this.app); };
-
-            //var target = getTextBlock("Target");
+            checkinButton = new Button
+            {
+                VerticalAlignment = VerticalAlignment.Center,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                Background = new SolidColorBrush(Colors.Gray),
+                Foreground = new SolidColorBrush(Colors.Black),
+                Padding = new Thickness(Screen.NormalFontSize),
+                WrapContent = true,
+                Font = new Font(new FontFamily("Arial"), 0.5 * Screen.LargeFontSize),
+                Text = "Check in"
+            };
+            checkinButton.Pressed += (x, y) => { sw1 = true;};
+            LogoutButton = new Button
+            {
+                VerticalAlignment = VerticalAlignment.Center,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                Background = new SolidColorBrush(Colors.Gray),
+                Foreground = new SolidColorBrush(Colors.Black),
+                Padding = new Thickness(Screen.NormalFontSize),
+                WrapContent = true,
+                Font = new Font(new FontFamily("Arial"), 0.5 * Screen.LargeFontSize),
+                Text = "Log Out"
+            };
+            LogoutButton.Pressed += (x, y) => { sw2 = true;};
             var panel = new StackPanel
             {
                 Children =
                 {
-                    new Cell {Content = checkinButton, Height = 70, Margin = new Thickness(80),},
-                    new Cell {Content = logoutButton, Height = 70},
+                    new Cell {Content = checkinButton},
+                    new Cell {Content = LogoutButton},
                 },
                 Background = new SolidColorBrush(Colors.LightBlue),
             };
             Screen.Content = panel;
         }
 
-        private void showState2()
+        private void showCheckinState()
         {
-            generatedKey = getTextBlock("Generated key", 16);
-
-            Random rnd = new Random();
-            key = getTextBlock(rnd.Next(1000, 9999).ToString(), Screen.SmallBasicFontSize);
-            DropBox dropBox = new DropBox { };
-
-
-            backButton = getButton("Back");
-            backButton.Pressed += (e, v) => { controllerState = MainControllerState.State1; };
+            generatedKeyLabel = new TextBlock
+            {
+                VerticalAlignment = VerticalAlignment.Center,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                WrapContent = true,
+                Font = new Font(new FontFamily("Arial"), 16),
+                Foreground = new SolidColorBrush(Colors.Black),
+                Text = "Generated key:"
+            };
+            KeyLabel = new TextBlock
+            {
+                VerticalAlignment = VerticalAlignment.Center,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                WrapContent = true,
+                Font = new Font(new FontFamily("Arial"), 16),
+                Foreground = new SolidColorBrush(Colors.Black),
+                Text = ""
+            };
+            BackButton = new Button
+            {
+                VerticalAlignment = VerticalAlignment.Center,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                Background = new SolidColorBrush(Colors.Gray),
+                Foreground = new SolidColorBrush(Colors.Black),
+                Padding = new Thickness(Screen.NormalFontSize),
+                WrapContent = true,
+                Font = new Font(new FontFamily("Arial"), 0.5 * Screen.LargeFontSize),
+                Text = "Back"
+            };
+            BackButton.Pressed += (x, y) => { sw3 = true;};
             var panel = new StackPanel
             {
                 Children =
                 {
-                    new Cell {Content = generatedKey, Margin = new Thickness(32),},
-                    new Cell {Content = key},
-                    new Cell {Content = backButton},
+                    new Cell {Content = generatedKeyLabel},
+                    new Cell {Content = KeyLabel},
+                    new Cell {Content = BackButton},
                 },
                 Background = new SolidColorBrush(Colors.LightBlue),
             };
